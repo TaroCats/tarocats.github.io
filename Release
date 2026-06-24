@@ -1,0 +1,18 @@
+Origin: TaroCats
+Label: TaroCats Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: TaroCats Cydia Repository - iOS Tweaks & Packages
+MD5Sum:
+ 4d63fd199eadae4167904dc2b609fc97 538 Packages
+ 687ece2a64ceb026fdc73095dd04b890 486 Packages.bz2
+ dd680747302919968d0ae9b1818a037f 448 Packages.gz
+SHA1:
+ 824689d6e73121c67b696bd9226915a1db06d3b7 538 Packages
+SHA256:
+ 2c7280cb1bc6fc58d42ae0d9e253fa6844c3e4da8769884143205a36abb09f3b 538 Packages
+ 081866a300ebda3d4a4258c0ac12d13e9af3129842ee94eca967cd88d34ce203 486 Packages.bz2
+ 7e8ffee021de00997e143bdef6a887b6675652e81821e549268165b0b2a7d151 448 Packages.gz

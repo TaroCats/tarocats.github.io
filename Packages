@@ -1,0 +1,14 @@
+Package: com.yourrepo.smsforward
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: TaroCats
+Author: TaroCats
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: 自动读取短信并转发到指定邮箱。支持SMTP/SSL，适配rootless iOS 15-16.6.1。
+Name: SMSForward
+Filename: ./debs/com.yourrepo.smsforward_1.0.0_iphoneos-arm64.deb
+Size: 1738
+MD5sum: f66c8208697becda148c5abcaf330a41
+SHA1: 971190cffd571d7de3ea2e72c9acc41727885fda
+SHA256: d37cd89c7bf5e6a44755895c3868b1fc762d9c665975a3b32a59a53dbd6cb9d5
